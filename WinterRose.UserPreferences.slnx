@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Storage/">
+    <Project Path="WinterRose.Preferences.Storage.Json/WinterRose.Preferences.Storage.Json.csproj" Id="5a9ff810-2945-4cbb-bdf9-5bc07a7cf656" />
+    <Project Path="WinterRose.UserPreferences.Storage.WinterForgeStorage/WinterRose.Preferences.Storage.WinterForgeStorage.csproj" />
+    <Project Path="WinterRose.UserPreferences.Storage/WinterRose.Preferences.Storage.csproj" Id="a88c391a-8599-46a5-88b6-5f7ec61ad268" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="WinterForgeStorageTests/WinterForgeStorageTests.csproj" Id="747a172f-e452-4897-9b29-20aac0dfd8d2" />
+  </Folder>
+  <Folder Name="/WinterForge/">
+    <Project Path="../WinterRose.WinterForge/src/WinterRose.Reflection/WinterRose.Reflection.csproj" />
+    <Project Path="../WinterRose.WinterForge/src/WinterRose.WinterForge/WinterRose.WinterForge.csproj" />
+    <Project Path="../WinterRose.WinterForge/WinterRose.WinterForge.Abstractions/WinterRose.WinterForge.Abstractions.csproj" />
+  </Folder>
+  <Project Path="WinterRose.UserPreferences/WinterRose.Preferences.csproj" />
+</Solution>
