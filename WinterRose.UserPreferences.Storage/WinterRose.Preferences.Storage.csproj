@@ -4,6 +4,13 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>WinterRose.Preferences.Storage</Title>
+    <Version>26.3.0</Version>
+    <Authors>TheSnowOwl</Authors>
+    <Company>WinterRose</Company>
+    <Copyright>WinterRose</Copyright>
+    <PackageLicenseExpression>MPL-2.0</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
